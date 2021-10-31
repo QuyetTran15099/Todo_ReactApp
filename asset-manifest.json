@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/static/css/main.5e3a6dc5.chunk.css",
+    "main.js": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/static/js/main.d523ee5a.chunk.js",
+    "main.js.map": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/static/js/main.d523ee5a.chunk.js.map",
+    "runtime-main.js": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/static/js/runtime-main.a25dbff6.js",
+    "runtime-main.js.map": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/static/js/runtime-main.a25dbff6.js.map",
+    "static/js/2.810e040c.chunk.js": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/static/js/2.810e040c.chunk.js",
+    "static/js/2.810e040c.chunk.js.map": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/static/js/2.810e040c.chunk.js.map",
+    "static/js/3.0afd5523.chunk.js": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/static/js/3.0afd5523.chunk.js",
+    "static/js/3.0afd5523.chunk.js.map": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/static/js/3.0afd5523.chunk.js.map",
+    "index.html": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/index.html",
+    "static/css/main.5e3a6dc5.chunk.css.map": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/static/css/main.5e3a6dc5.chunk.css.map",
+    "static/js/2.810e040c.chunk.js.LICENSE.txt": "/git@github.com:QuyetTran15099/Todo_ReactApp.git/static/js/2.810e040c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a25dbff6.js",
+    "static/js/2.810e040c.chunk.js",
+    "static/css/main.5e3a6dc5.chunk.css",
+    "static/js/main.d523ee5a.chunk.js"
+  ]
+}
